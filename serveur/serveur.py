@@ -8,7 +8,10 @@ myLocalIP = ([l for l in ([ip for ip in socket.gethostbyname_ex(socket.gethostna
 HOST = myLocalIP # '192.168.1.168'
 PORT = 50000
 counter =0	 # compteur de connexions actives
- 
+
+print("Adresse IP du serveur : " + myLocalIP)
+print("Port : " + str(PORT) + "\n")
+
 # 1) création du socket :
 mySocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
  

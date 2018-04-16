@@ -20,7 +20,7 @@ try:
         try:
                 from client import client
         except:
-                print("Erreur, impossible de lancer le client;\n")
+                print("Erreur, impossible de lancer le client.\n")
                 input("Appuyez sur n'importe quelle touche pour quitter.")
                 exit(3)
 
