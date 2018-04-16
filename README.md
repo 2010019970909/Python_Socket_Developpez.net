@@ -7,5 +7,5 @@ Ce script lance le serveur dans une nouvelle fenêtre et lance le client dans la
 ## Dans [serveur](https://github.com/2010019970909/Python_Socket_Developpez.net/tree/master/serveur "Serveur")
 On retrouve _serveur.py_, qui se lance comme serveur.
 
-## Dans [client](https://github.com/2010019970909/Python_Socket_Developpez.net/tree/master/client "client")
+## Dans [client](https://github.com/2010019970909/Python_Socket_Developpez.net/tree/master/client "Client")
 On retrouve _client.py_, qui se lance comme client.
